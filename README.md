@@ -6,8 +6,8 @@ PHP and MySQL-based article collection website showcasing the arts, culture, tra
 ![Homepage Article Collection](home.jpeg)
 
 ### Screenshot 2
-![Website Screenshot 2](page1.jpeg)
+![Website page1](page1.jpeg)
 
 ### Screenshot 3
-![Website Screenshot 3](page2.jpeg)
+![Website page2](page2.jpeg)
 
